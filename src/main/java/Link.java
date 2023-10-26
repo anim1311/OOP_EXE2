@@ -87,7 +87,7 @@ public class Link {
 
     void powerUp(){
         invincible = true;
-
+        invincible_counter = 0;
     }
     
 
