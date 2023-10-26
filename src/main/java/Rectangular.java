@@ -8,8 +8,15 @@ public class Rectangular {
         side2 = 1;
     }
     Rectangular(double side1, double side2){
-        this.side1 = side1;
-        this.side2 = side2;
+        if(side1>=0 && side2>=0){
+            this.side1 = side1;
+            this.side2 = side2;
+        }
+        else{
+            this.side1 = 1;
+            this.side2 = 1;
+        }
+
     }
 
     double getArea(){

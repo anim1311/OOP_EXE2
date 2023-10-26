@@ -30,7 +30,7 @@ public class Link {
         
         if(y<12){
             y++;
-            if(invincible_counter < 5){
+            if(invincible_counter < 4){
                 invincible_counter++;
             }
             else{
@@ -45,7 +45,7 @@ public class Link {
     boolean moveDown(){
         if(y>-12){
             y--;
-            if(invincible_counter < 5){
+            if(invincible_counter < 4){
                 invincible_counter++;
             }
             else{
@@ -59,7 +59,7 @@ public class Link {
     boolean moveRight(){
         if(x<12){
             x++;
-            if(invincible_counter < 5){
+            if(invincible_counter < 4){
                 invincible_counter++;
             }
             else{
@@ -73,7 +73,7 @@ public class Link {
     boolean moveLeft(){
         if(x>-12){
             x--;
-            if(invincible_counter < 5){
+            if(invincible_counter < 4){
                 invincible_counter++;
             }
             else{
