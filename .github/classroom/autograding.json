@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Task 1 a",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test01a",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 1 b",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test01b",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 1 c",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test01c",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 1d",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test01d",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 1e",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test01e",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 2a",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test02a",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 2b",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test02b",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Task 2c",
+      "setup": "",
+      "run": "gradle test --tests TestExercise02.test02c",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
